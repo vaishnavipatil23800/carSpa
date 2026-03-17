@@ -153,41 +153,6 @@
 | **date-fns** | Date utilities |
 
 ---
-
-## 📸 Screenshots
-
-> ✅ All screens built with dark glassmorphism theme — indigo/cyan/amber palette
-
-### 🏠 Landing Page
-![Landing Page](./screenshots/landing.png)
-> Animated hero section with gradient text, service highlights, and call-to-action
-
-### 🔐 Authentication
-![Login Page](./screenshots/login.png)
-> JWT-secured login with React Hook Form validation + animated feedback
-
-### 📊 Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
-> Revenue analytics, booking trends, user stats — powered by Recharts
-
-### 📅 Booking Flow
-![Booking](./screenshots/booking.png)
-> Multi-step booking: select car → choose service → pick time → payment
-
-### 💳 Payment Integration
-![Payment](./screenshots/payment.png)
-> Razorpay checkout with success/failure handling and invoice generation
-
-### 🤖 AI Chat
-![AI Chat](./screenshots/chat.png)
-> Real-time AI assistant via OpenAI + WebSocket with chat history
-
-### 🔍 Service Discovery (Eureka)
-![Eureka](./screenshots/eureka.png)
-> All 8 microservices registered and healthy on Eureka dashboard
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -515,12 +480,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**⭐ If you find this project helpful, please give it a star! ⭐**
-
-Made with ❤️ by [Vaishnavi Patil](https://github.com/vaishnavipatil23800)
-
-</div>
