@@ -20,9 +20,6 @@
 </p>
 
 ### ✨ A full-stack enterprise-grade car wash booking platform built with 8 Spring Boot microservices and React 18 — featuring real-time AI chat, JWT authentication, Razorpay payments, and a stunning dark glassmorphism UI.
-
-[🚀 Live Demo](#) · [📖 API Docs](#api-documentation) · [🐛 Report Bug](https://github.com/vaishnavipatil23800/carSpa/issues) · [✨ Request Feature](https://github.com/vaishnavipatil23800/carSpa/issues)
-
 </div>
 
 ---
