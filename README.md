@@ -35,16 +35,16 @@ Axios with JWT interceptor for automatic token attachment
 
 Start backend
 
-# 1. Service discovery first
+1. Service discovery first
 cd eurekaService && mvn spring-boot:run
 
-# 2. Auth layer
+2. Auth layer
 cd userService && mvn spring-boot:run
 
-# 3. Gateway (now Eureka + UserService are up)
+3. Gateway (now Eureka + UserService are up)
 cd apiGateway && mvn spring-boot:run
 
-# 4. Remaining services (any order)
+4. Remaining services (any order)
 cd carService && mvn spring-boot:run
 cd bookingService && mvn spring-boot:run
 cd paymentService && mvn spring-boot:run
